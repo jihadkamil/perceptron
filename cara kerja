@@ -1,13 +1,14 @@
 /*
 
-1. memilih operasi AND/ OR/ XOR dan inisialisasi @alfa
-2. inisialisasi jumlah bobot
-3. inisialisasi bobot awal = 0
-4. menghitung nilai net
-5. menghitung nilai f(net)
-6. if f(net) = target. (poin 7 : poin 8)
-7. wbaru = wlama
-8. rumus wb=wl+(@.xi,(t-y))
-9. ulangi sampai
+memilih operasi AND/ OR/ XOR dan inisialisasi @alfa
+inisialisasi jumlah bobot
+inisialisasi bobot awal = 0
+ for (i<=4){
+    menghitung nilai net(i)
+    menghitung nilai f(net)
+    if f(net) = target. (poin 10 : poin 11)
+    wbaru = wlama
+    rumus wb=wl+(@.xi,(t-y))
+    i++}
 
 */
